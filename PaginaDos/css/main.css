@@ -1,0 +1,16 @@
+.cuadro
+{
+	background-color: gray;
+	width: 200px;
+	height: 200px;
+}
+.img
+{
+	width: 50%;
+	height: 50%;
+	display: inline;
+}
+body
+{
+	background-color: gray;
+}
